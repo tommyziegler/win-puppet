@@ -4,9 +4,8 @@
 # Note: Net 4.0 must be installed prior to running this script
 #
 
-$items = @("git.install")
-# $items = @("GoogleChrome", "thunderbird", "skype", "vlc", "quicktime", "flashplayerplugin", "javaruntime", "DotNet4.5", "utorrent", "dropbox", "Teracopy", "7zip.install", "python", "eclipse-java-juno", "notepadplusplus.install", "git.install" )
- 
+$items = @("git" )
+
 #################
 # Create packages.config based on passed arguments
 #################
